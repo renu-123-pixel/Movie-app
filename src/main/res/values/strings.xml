@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="text1">Watch Videos to Reality</string>
+    <string name="activityLogin1"> What would ypu like to watch?</string>
+    <string name="searchMovie"> Search for movies… </string>
+    <string name="activityLogin2">New Movies</string>
+    <string name="activityLogin3">Upcoming Movies</string>
+    <string name="imageView2">compass Symbol</string>
+    <string name="imageView3">add to wishList</string>
+    <string name="imageView4">add to cart Symbol-invisible</string>
+    <string name="imageView5">add to cart Symbol</string>
+    <string name="imageView6">personal details of individual</string>
+    <string name="sum">Summary</string>
+</resources>

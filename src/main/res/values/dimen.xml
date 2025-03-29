@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="max_width_progress_bar">300dp</dimen>
+    <dimen name="min_width_progress_bar">100dp</dimen>
+<dimen name="max_height_progress_bar">8dp</dimen>
+    <dimen name="min_height_progress_bar">2dp</dimen>
+
+</resources>

@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Project145" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimaryDark">#19191b</item>
+    </style>
+
+    <style name="progressBarStyle" parent="Widget.AppCompat.ProgressBar">
+        <!-- Customize color, size, etc. -->
+        <item name="android:indeterminateTint">@color/colorAccent</item>
+        <item name="android:minWidth">48dp</item> <!-- Minimum width -->
+        <item name="android:minHeight">48dp</item> <!-- Minimum height -->
+        <item name="android:indeterminateDrawable">@drawable/progress</item> <!-- Custom drawable -->
+    </style>
+
+    <style name = "Theme.Project145" parent="Base.Theme.Project145"/>
+
+    <style name="Theme.MovieApp" parent="Base.Theme.MovieApp" />
+    <style name="Floating" parent="Widget.Design.FloatingActionButton">
+        <item name="android:foreground">@drawable/floating_background</item>
+    </style>
+
+    <style name="roundImageRounded">
+        <item name="shapeAppearanceOverlay">@style/roundImageRounded</item>
+    </style>
+
+    <style name="roundedImageView">
+        <item name="shapeAppearanceOverlay">@style/roundedImageView</item>
+    </style>
+</resources>
