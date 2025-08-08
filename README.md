@@ -73,23 +73,39 @@ public static final String API_KEY = "YOUR_API_KEY_HERE";
 Run the app on an emulator or physical Android device.
 
 📁 Project Structure
-swift
-Copy
-Edit
-Movie-app/
-├── app/
-│   ├── java/com/example/movieapp/
-│   │   ├── MainActivity.java
-│   │   ├── Movie.java
-│   │   ├── MovieAdapter.java
-│   │   ├── ApiClient.java
-│   │   └── ApiInterface.java
-│   └── res/
-│       ├── layout/
-│       ├── drawable/
-│       └── values/
-├── AndroidManifest.xml
-└── build.gradle
+MovieApp/
+└── app/
+    └── src/
+        └── main/
+            ├── java/
+            │   └── com/yourpackage/movieapp/  ← actual package name may vary
+            │       ├── Activity/
+            │       │   ├── DetailActivity.java
+            │       │   ├── LoginActivity.java   ← launcher activity
+            │       │   ├── IntroActivity2.java
+            │       │   └── MainActivity.java
+            │       ├── Adapter/
+            │       │   └── [RecyclerView adapters, etc.]
+            │       ├── Domain/
+            │       │   └── [Model classes e.g., Movie.java]
+            │       └── Helper/
+            │           └── [Utility/helper classes]
+            │
+            ├── res/
+            │   ├── drawable/
+            │   ├── drawable-xxhdpi/
+            │   ├── layout/
+            │   │   └── [activity_main.xml, item_movie.xml, etc.]
+            │   ├── mipmap-hdpi/
+            │   ├── mipmap-mdpi/
+            │   ├── values/
+            │   ├── values-night/
+            │   └── xml/
+            │       ├── backup_rules.xml
+            │       └── data_extraction_rules.xml
+            │
+            └── AndroidManifest.xml
+
 📌 Future Improvements
  Add movie detail screen
 
