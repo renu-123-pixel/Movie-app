@@ -23,11 +23,25 @@ An Android application that lets users browse and explore a list of popular movi
 
 ## 📷 Screenshots
 
-| Movie List |
+| Login Screen |
 |------------|
-| ![Movie List](screenshots/movie_list.png) |
+| ![Login screen](login_screen.png) |
+| Splash Screen |
+|------------|
+| ![Splash Screen](splash_screen.png) |
+| Movies List |
+|------------|
+| ![movies list 1](movies_list_screen_1.png) |
+| Movies List |
+|------------|
+| ![movies detail_screen 1](movie_detail_screen_1.png) |
+| Movies List |
+|------------|
+| ![movies detail_screen_2](movie_detail_screen_2.png) |
+| favorite_movies |
+|------------|
+| ![Favorite_Movies](favorite_movies.png) |
 
-> 📌 *Replace `screenshots/movie_list.png` with the actual path or link to your image*
 
 ## 🚀 Getting Started
 
