@@ -48,10 +48,10 @@ An Android application that lets users browse and explore a list of popular movi
 | <img src="favorite_movies.png" width="300"/> |
 
 ## 📷 UML Sequence Diagram 
-| <img src="Movie-app_UML_Sequence_diagram.png" width="600" /> |
+| <img src="Movie-app_UML_Sequence_diagram.png" width="800" /> |
 
 ## 📷  Component Diagram
-| <img src="Movie-app_High_Level_Architecture_Diagram.png" width="500" /> |
+| <img src="Movie-app_High_Level_Architecture_Diagram.png" width="800" /> |
 
 ## 🚀 Getting Started
 
