@@ -47,7 +47,11 @@ An Android application that lets users browse and explore a list of popular movi
 |------------------|
 | <img src="favorite_movies.png" width="300"/> |
 
+## 📷 UML Sequence Diagram 
+| <img src="Movie-app_UML_Sequence_diagram.png" width="300" /> |
 
+## 📷  Component Diagram
+| <img src="Movie-app_High_Level_Architecture_Diagram" width="300" /> |
 
 ## 🚀 Getting Started
 
@@ -57,9 +61,6 @@ An Android application that lets users browse and explore a list of popular movi
 - TMDb API Key (Free – [Sign Up Here](https://www.themoviedb.org/signup))
 
 ### Installation
-
-1. Clone this repository:
-
 ```bash
 git clone https://github.com/renu-123-pixel/Movie-app.git
 Open in Android Studio and let Gradle sync.
