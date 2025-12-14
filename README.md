@@ -25,7 +25,7 @@ An Android application that lets users browse and explore a list of popular movi
 
 | Login Screen |
 |--------------|
-| <img src="login_screen.png" width="300" /> |
+| <img src="doc/login_screen.png" width="300" /> |
 
 | Splash Screen |
 |---------------|
