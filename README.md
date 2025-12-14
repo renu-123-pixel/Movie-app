@@ -29,29 +29,29 @@ An Android application that lets users browse and explore a list of popular movi
 
 | Splash Screen |
 |---------------|
-| <img src="splash_screen.png" width="300"/> |
+| <img src="doc/splash_screen.png" width="300"/> |
 
 | Movies List |
 |--------------|
-| <img src="movies_list_screen_1.png" width="300"/> |
+| <img src="doc/movies_list_screen_1.png" width="300"/> |
 
 | Movie Detail 1 |
 |----------------|
-| <img src="movie_detail_screen_1.png" width="300"/> |
+| <img src="doc/movie_detail_screen_1.png" width="300"/> |
 
 | Movie Detail 2 |
 |----------------|
-| <img src="movie_detail_screen_2.png" width="300"/> |
+| <img src="doc/movie_detail_screen_2.png" width="300"/> |
 
 | Favorite Movies |
 |------------------|
-| <img src="favorite_movies.png" width="300"/> |
+| <img src="doc/favorite_movies.png" width="300"/> |
 
 ## 📷 UML Sequence Diagram 
-| <img src="Movie-app_UML_Sequence_diagram.png" width="800" /> |
+| <img src="doc/Movie-app_UML_Sequence_diagram.png" width="800" /> |
 
 ## 📷  Component Diagram
-| <img src="Movie-app_High_Level_Architecture_Diagram.png" width="800" /> |
+| <img src="doc/Movie-app_High_Level_Architecture_Diagram.png" width="800" /> |
 
 ## 🚀 Getting Started
 
